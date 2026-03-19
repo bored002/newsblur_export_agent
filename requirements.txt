@@ -1,0 +1,10 @@
+# The "Brain" and Framework
+langchain==1.1.*
+langchain-openai==1.1.*
+
+# Connectivity & Environment
+requests>=2.32.0
+python-dotenv==1.2.2
+
+# Optional: For better data handling
+pandas>=2.2.0
